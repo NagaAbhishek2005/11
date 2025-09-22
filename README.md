@@ -1,2 +1,16 @@
-# 11
-HTML Program-11
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Footer of the page</title>
+</head>
+<body>
+    <h1> Page Footer</h1>
+    <p> main content of the page </p>
+    <footer>
+        <p> Copy Rights Reserved, 2025.</p>
+    </footer>
+    
+</body>
+</html>
